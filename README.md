@@ -117,15 +117,6 @@ Time series forecasting with beautiful UI
 </tr>
 </table>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 

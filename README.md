@@ -111,8 +111,8 @@ Time series forecasting with beautiful UI
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rutuja-kate-ba601737a/])
+[![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutujakate203@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E6B0D9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>

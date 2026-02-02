@@ -127,8 +127,6 @@ Time series forecasting with beautiful UI
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FFD1DC?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-profile)
-[![Medium](https://img.shields.io/badge/Medium-FFC0CB?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
 [![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E6B0D9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 

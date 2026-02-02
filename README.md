@@ -147,8 +147,7 @@ Time series forecasting with beautiful UI
 <div align="center">
 
 ## 🎨 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=My%20Contribution%20Graph&bg_color=FFF0F5&color=D946EF&line=FF69B4&point=FFB6C1&area_color=FFE4E1&area=true&hide_border=true&title_color=D946EF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -158,9 +157,6 @@ Time series forecasting with beautiful UI
 
 ### ✨ "Turning data into insights, one model at a time" ✨
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <div align="center">
   

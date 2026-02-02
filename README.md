@@ -1,4 +1,4 @@
-# 💕 Hey Everyone, I'm [Rutuja Kate]! 
+# 💕 Hey Everyone, I'm Rutuja Kate 
 
 <div align="center">
   

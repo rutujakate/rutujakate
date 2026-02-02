@@ -167,7 +167,7 @@ Time series forecasting with beautiful UI
 
 ### ✨ "Turning data into insights, one model at a time" ✨
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FFB6C1&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=rutujakate&color=FFB6C1&style=for-the-badge&label=Profile+Views)
 
 </div>
 

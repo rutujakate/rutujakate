@@ -26,7 +26,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-E6B0D9?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-DDA0DD?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F4C2C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FFE4E1?style=for-the-badge&logo=keras&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FFD6E8?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🎨 Data Visualization & Tools
@@ -69,13 +68,16 @@
 <tr>
 <td width="50%">
 
-### 🎀 [AI Image Classification](https://github.com/your-username/project1)
+### 🎀 [🏥 NCD Prediction (Non-Communicable Disease Risk Analysis)](https://github.com/your-username/project1)
 ![Stars](https://img.shields.io/github/stars/your-username/project1?style=social)
 
-Deep learning model for image classification using CNN
-- 🔮 Tech: TensorFlow, Keras, Python
-- 📊 Accuracy: 95%+
-- 💕 Beautiful visualizations
+**Tech Stack:** Python, pandas, NumPy, scikit-learn, matplotlib, seaborn  
+
+- Built a machine learning model to predict the risk of Non-Communicable Diseases (NCDs) using patient health indicators.
+- Performed data cleaning, preprocessing, and exploratory data analysis (EDA) to identify key risk factors.
+- Trained and evaluated models such as Logistic Regression and Random Forest.
+- Used evaluation metrics including Accuracy, Precision, Recall, and F1-Score.
+- Visualized insights using matplotlib and seaborn.
 
 </td>
 <td width="50%">

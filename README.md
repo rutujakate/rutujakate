@@ -53,7 +53,7 @@
 <tr>
 <td width="50%">
 
-### 🎀 [🏥 NCD Prediction (Non-Communicable Disease Risk Analysis)](https://github.com/your-username/project1)
+###  [🏥 NCD Prediction (Non-Communicable Disease Risk Analysis)](https://github.com/your-username/project1)
 ![Stars](https://img.shields.io/github/stars/your-username/project1?style=social)
 
 **Tech Stack:** Python, pandas, NumPy, scikit-learn, matplotlib, seaborn  

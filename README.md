@@ -167,7 +167,7 @@ Time series forecasting with beautiful UI
 
 ### ✨ "Turning data into insights, one model at a time" ✨
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rutujakate&color=FFB6C1&style=for-the-badge&label=Profile+Views)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

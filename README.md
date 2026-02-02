@@ -42,23 +42,8 @@
 
 <div align="center">
 
-## 📈 GitHub Stats
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=D946EF&icon_color=FF69B4&text_color=4A5568" />
-
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=buefy&hide_border=true&background=FFF0F5&ring=D946EF&fire=FF69B4&currStreakLabel=4A5568" />
-
-</div>
-
----
 
 <div align="center">
-
-## 🎯 Most Used Languages
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=D946EF&text_color=4A5568" />
-
-</div>
 
 ---
 

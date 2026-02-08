@@ -53,8 +53,8 @@
 <tr>
 <td width="50%">
 
-###  [🏥 NCD Prediction (Non-Communicable Disease Risk Analysis)]([https://github.com/your-username/project1](https://github.com/rutujakate/NCD-Prediction-app))
-![Stars]([https://img.shields.io/github/stars/your-username/project1?style=social]([https://github.com/rutujakate/NCD-Prediction-app](https://github.com/rutujakate/NCD-Prediction-app)))
+###  [🏥 NCD Prediction (Non-Communicable Disease Risk Analysis)]([https://github.com/rutujakate/NCD-Prediction-app])
+![Stars]([https://img.shields.io/github/stars/your-username/project1?style=social]((https://github.com/rutujakate/NCD-Prediction-app)))
 
 **Tech Stack:** Python, pandas, NumPy, scikit-learn, matplotlib, seaborn  
 

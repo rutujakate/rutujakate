@@ -100,7 +100,7 @@ An end-to-end **Machine Learning project** to classify loan applicants into **Lo
 ---
 <div align="center" style="width:50%; margin:auto;">
 ## 💌 Connect With Me
-
+<div align="center" style="width:60%; margin:auto; padding:20px; border-radius:15px; background:linear-gradient(90deg,#FFE4E1,#E6B0D9); box-shadow:0px 4px 12px rgba(0,0,0,0.15);">
 
 <div align="center">
 

@@ -1,12 +1,10 @@
-# 💕 Hey Everyone, I'm [Rutuja Kate]!
-
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Welcome%20to%20My%20AI%20Universe!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Hey%20There!%20I%27m%20Rutuja%20Kate%20💕&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
 
 </div>
 
-<img align="right" alt="AI Girl Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="AI Girl Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ### 🌸 About Me
 
@@ -16,34 +14,38 @@
 - 🌟 Open to collaborations
 - 🎀 Creating beautiful data visualizations
 
-<br>
+<br/>
+<br/>
 
-### 💖 Tech Stack
+### 🌐 Let's Connect
 
-![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC0CB?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFB6C1?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-E6B0D9?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-DDA0DD?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F4C2C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FFD6E8?style=for-the-badge&logo=jupyter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuja-kate-ba601737a/)
+[![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutujakate203@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-E6B0D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutujakate)
 
-### 🎨 Data Visualization & Tools
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E6C9FF?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-D8BFD8?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-FFE4F0?style=for-the-badge&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F0D9FF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFC0E0?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
+<br/>
+<br/>
 
 ---
 
-<div align="center">
+## 💖 Tech Stack
 
+### 🤖 ML & Data Science
+![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFC0CB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFB6C1?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F4C2C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-E6B0D9?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-DDA0DD?style=for-the-badge&logo=numpy&logoColor=white)
 
-<div align="center">
+### 🎨 Visualization & Tools
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E6C9FF?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-D8BFD8?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-FFE4F0?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFD6E8?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F0D9FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFC0E0?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FFD1DC?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -51,84 +53,82 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  [🏥 NCD Prediction (Non-Communicable Disease Risk Analysis)]([https://github.com/rutujakate/NCD-Prediction-app])
-![Stars]([https://img.shields.io/github/stars/your-username/project1?style=social]((https://github.com/rutujakate/NCD-Prediction-app)))
+### 🏥 NCD Prediction — Non-Communicable Disease Risk Analysis
 
-**Tech Stack:** Python, pandas, NumPy, scikit-learn, matplotlib, seaborn  
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutujakate/NCD-Prediction-app)
+[![Stars](https://img.shields.io/github/stars/rutujakate/NCD-Prediction-app?style=social)](https://github.com/rutujakate/NCD-Prediction-app)
 
-- Built a machine learning model to predict the risk of Non-Communicable Diseases (NCDs) using patient health indicators.
-- Performed data cleaning, preprocessing, and exploratory data analysis (EDA) to identify key risk factors.
-- Trained and evaluated models such as Logistic Regression and Random Forest.
-- Used evaluation metrics including Accuracy, Precision, Recall, and F1-Score.
-- Visualized insights using matplotlib and seaborn.
+> A machine learning model to predict the risk of Non-Communicable Diseases using patient health indicators.
+
+**✨ Highlights:**
+- 🧹 Data cleaning, preprocessing & EDA to identify key risk factors
+- 🌳 Trained Logistic Regression & Random Forest models
+- 📈 Evaluated using Accuracy, Precision, Recall & F1-Score
+- 📊 Visualized insights using Matplotlib & Seaborn
+
+**🛠 Tech Stack:**  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💖 [Bank Loan Risk Prediction]()
-![Stars](https://img.shields.io/github/stars/your-username/project2?style=social)
+### 💳 Bank Loan Risk Prediction
 
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutujakate)
+[![Stars](https://img.shields.io/github/stars/rutujakate?style=social)](https://github.com/rutujakate)
 
-An end-to-end **Machine Learning project** to classify loan applicants into **Low, Medium, or High Risk** categories using customer financial data.
+> An end-to-end ML project to classify loan applicants into **Low, Medium, or High Risk** categories using customer financial data.
 
-## 🚀 Project Highlights
-- 🧹 Data Cleaning & Preprocessing  
-- 📊 Exploratory Data Analysis (EDA)  
-- 🌳 Decision Tree & Random Forest Models  
-- 📈 Feature Importance Analysis  
-- 🌐 Streamlit Web App Deployment  
+**✨ Highlights:**
+- 🧹 Data Cleaning & Preprocessing
+- 📊 Exploratory Data Analysis (EDA)
+- 🌳 Decision Tree & Random Forest Models
+- 📈 Feature Importance Analysis
+- 🌐 Streamlit Web App Deployment
 
-## 🛠️ Tech Stack
-- 🐍 Python  
-- 📦 Pandas & NumPy  
-- 🤖 Scikit-learn  
-- 🎯 Streamlit  
+**🛠 Tech Stack:**  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Streamlit`
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-
-
-<div align="center">
-
+</table>
 
 ---
-<div align="center" style="width:50%; margin:auto;">
-## 💌 Connect With Me
-<div align="center" style="width:60%; margin:auto; padding:20px; border-radius:15px; background:linear-gradient(90deg,#FFE4E1,#E6B0D9); box-shadow:0px 4px 12px rgba(0,0,0,0.15);">
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuja-kate-ba601737a/)
-[![Email](https://img.shields.io/badge/Email-FFE4E1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutujakate203@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E6B0D9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutujakate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=FFB6C1&icon_color=DDA0DD&text_color=fff&bg_color=0d1117&border_color=FFB6C1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujakate&layout=compact&langs_count=8&theme=tokyonight&title_color=FFB6C1&text_color=fff&bg_color=0d1117&border_color=FFB6C1"/>
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rutujakate&theme=tokyonight&hide_border=false&border=FFB6C1&ring=DDA0DD&fire=FFB6C1&currStreakLabel=FFB6C1)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20like%20oil,%20it%20has%20to%20be%20refined%20to%20be%20useful&author=Anonymous)
-
-</div>
-
----
-
-<div align="center">
 
 ## 🎨 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+[![Rutuja's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rutujakate&theme=tokyo-night&bg_color=0d1117&color=FFB6C1&line=DDA0DD&point=FFB6C1&area=true&hide_border=false)](https://github.com/rutujakate)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil%2C%20but%20like%20oil%2C%20it%20has%20to%20be%20refined%20to%20be%20useful&author=Anonymous)
 
 </div>
 
@@ -138,9 +138,12 @@ An end-to-end **Machine Learning project** to classify loan applicants into **Lo
 
 ### ✨ "Turning data into insights, one model at a time" ✨
 
+![Profile Views](https://komarev.com/ghpvc/?username=rutujakate&color=FFB6C1&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer)
 
 </div>

@@ -67,13 +67,24 @@
 </td>
 <td width="50%">
 
-### 💖 [Sentiment Analysis NLP](https://github.com/your-username/project2)
+### 💖 [Bank Loan Risk Prediction]()
 ![Stars](https://img.shields.io/github/stars/your-username/project2?style=social)
 
-Natural Language Processing for emotion detection
-- 🔮 Tech: NLTK, Transformers, PyTorch
-- 📈 Real-time analysis
-- 🌸 Interactive dashboard
+
+An end-to-end **Machine Learning project** to classify loan applicants into **Low, Medium, or High Risk** categories using customer financial data.
+
+## 🚀 Project Highlights
+- 🧹 Data Cleaning & Preprocessing  
+- 📊 Exploratory Data Analysis (EDA)  
+- 🌳 Decision Tree & Random Forest Models  
+- 📈 Feature Importance Analysis  
+- 🌐 Streamlit Web App Deployment  
+
+## 🛠️ Tech Stack
+- 🐍 Python  
+- 📦 Pandas & NumPy  
+- 🤖 Scikit-learn  
+- 🎯 Streamlit  
 
 </td>
 </tr>
@@ -81,28 +92,9 @@ Natural Language Processing for emotion detection
 <tr>
 <td width="50%">
 
-### 🦄 [Customer Segmentation ML](https://github.com/your-username/project3)
-![Stars](https://img.shields.io/github/stars/your-username/project3?style=social)
 
-Clustering algorithm for customer insights
-- 🔮 Tech: Scikit-learn, Pandas, K-Means
-- 💜 Interactive plots
-- 📊 Data storytelling
 
-</td>
-<td width="50%">
 
-### ✨ [Predictive Analytics Dashboard](https://github.com/your-username/project4)
-![Stars](https://img.shields.io/github/stars/your-username/project4?style=social)
-
-Time series forecasting with beautiful UI
-- 🔮 Tech: Prophet, Plotly, Streamlit
-- 🎨 Aesthetic interface
-- 📈 Business insights
-
-</td>
-</tr>
-</table>
 
 
 ---

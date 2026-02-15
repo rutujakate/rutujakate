@@ -76,8 +76,8 @@
 
 ### 💳 Bank Loan Risk Prediction
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/rutujakate](https://github.com/rutujakate/Bank-Loan-Risk-Level-Prediction-using-Machine-Learning))
-[![Stars](https://img.shields.io/github/stars/rutujakate?style=social)]([https://github.com/rutujakate](https://github.com/rutujakate/Bank-Loan-Risk-Level-Prediction-using-Machine-Learning))
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rutujakate/Bank-Loan-Risk-Level-Prediction-using-Machine-Learning)
+[![Stars](https://img.shields.io/github/stars/rutujakate?style=social)](https://github.com/rutujakate/Bank-Loan-Risk-Level-Prediction-using-Machine-Learning)
 
 > An end-to-end ML project to classify loan applicants into **Low, Medium, or High Risk** categories using customer financial data.
 

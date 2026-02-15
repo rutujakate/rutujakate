@@ -94,7 +94,7 @@ An end-to-end **Machine Learning project** to classify loan applicants into **Lo
 
 
 
-
+<div align="center">
 
 
 ---
